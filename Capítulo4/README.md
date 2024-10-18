@@ -1,41 +1,64 @@
-# Nombre del laboratorio 
+# Práctica 4: Visualizaciones de datos
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
-
-## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
-
-![diagrama1](../images/img1.png)
+- Analizar los datos mediante objetos visuales atractivos.
 
 ## Duración aproximada:
-- xx minutos.
-
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+- 40 minutos.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-Paso 2. <!-- Añadir instrucción -->
+**Descripción:** Según el estudio de Bankrate, Florida es el mejor estado para jubilarse en 2022, seguido de Georgia, Michigan, Ohio y Missouri.  Sin embargo, Alaska , ocupó el último lugar en el ranking. El estado se vio arrastrado hacia abajo por puntajes mínimos en bienestar y clima. Alaska ocupó el primer lugar en una subcategoría: sus residentes soportan la carga fiscal más baja del país.
 
-Paso 3. <!-- Añadir instrucción -->
+> ***Nota:** En esta práctica usará el archivo resultante del laboratorio anterior: **Práctica 3: Modelamiento de datos.***
 
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+1. Abrir archivo resultante del laboratorio: **Práctica 3: Modelamiento de datos.**
 
-Paso 2. <!-- Añadir instrucción -->
+>***Importante:** Para cada objeto visual, crear una nueva página seleccionando el simbolo "+" en la parte inferiror, desde cada vista de reporte.*
 
-Paso 3. <!-- Añadir instrucción -->
+Seleccionar el elemento visual y modificar su tamaño para que ocupe el lienzo en la página.
 
-### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+### Objeto Visual - Treemap.
+1. Seleccionar en el panel **Visualizaciones** el objeto visual **Treemap**.
+2. Para este objeto visual utilizaremos el campo de **Región** como **Categoría**, el campo de **Estado** para obtener el **Detalles** y el campo de **Puntuación General** para **Valores**.
+![Treemap](/images/Capitulo4/img1.png)
+
+### Objeto Visual - Mapa de forma.
+1. Seleccionar en el panel **Visualizaciones** el objeto visual **Mapa de forma**.
+2. Para este objeto visual utilizará el campo **Estado** como **Ubicación** y el campo **Puntuación general** para la saturación del color.
+
+    ![Mapa de forma](/images/Capitulo4/img2.png)
+
+3. En este caso cambiar el color de relleno en la configuración de formato.
+    > ***Nota:** Tener seleccionado el objeto visual y seleccionar **Dar formato a objeto visual (icono de pincel)** y en **Colores de relleno**, configurar el color degradado con tonos de azules oscuros y claros.
+    
+    ![Mapa de forma1](/images/Capitulo4/img3.png)
+
+### Objeto Visual - Gráfico Combinado
+1. Seleccionar en el panel **Visualizaciones** el objeto visual **Gráfico de columnas apiladas y de líneas (Gráfico Combinado)**.
+2. Para este objeto visual utilizará el campo **Región** como **eje X** y el **Promedio** de **Puntuación General** como **Eje Y**, esto con el fin de ver qué región de Estados Unidos tiene el promedio de puntuación más alto.
+
+3. Para el gráfico cruzado utilizar el **promedio** de **Asequibilidad** y el **promedio** de **Crimen** como **Eje Y de linea**. Esto con el fin de analizar la relación entre una alta puntuación general, considerando la asequibilidad y el crimen, como factores incidentes en la puntuación general.
+
+    ![Gráfico Combinado](/images/Capitulo4/img4.png) 
+
+4. Para el gráfico combinado realizar configuraciones de **Título:** Etiquetas, Leyendas, Marcadores, Bordes, Rellenos, Fuentes, etc. Con el fin obtener un gráfico atractivo para el análisis.
+Para editar el título, desde la configuración del formato, seleccione la vista **General > Título** y editar los campos de la siguiente manera:
+    
+    - **Texto:** Datos Combinados Puntuación, Asequibilidad y Crimen.
+    - **Título:** Título 3.
+    - **Fuente:** DIN , 18.
+    - **Color de fondo:** Azul Claro.
+
+    ![Gráfico Combinado 1](/images/Capitulo4/img5.png)
+
+5. Luego, para agregar las etiquetas y marcadores, regresar a **Objeto visual** y en la parte inferior, activar las opciones de **Marcadores y Etiquetas de datos.**
+
+    ![Gráfico Combinado 2](/images/Capitulo4/img6.png)
+
+## Resultado esperado
+Ahora que las visualizaciones están completas, es momento de analizar los factores que influyen en la clasificación de los estados. Se deben evaluar criterios como la asequibilidad, el índice de criminalidad y otros aspectos relevantes para obtener una visión clara de las tendencias. Con base en esta información, se podrán tomar decisiones informadas sobre **¿Cuál sería el estado más adecuado para visitar o vivir en Estados Unidos, considerando las preferencias y prioridades personales?**
+
+![Resultado Final](/images/Capitulo4/img7.png)
