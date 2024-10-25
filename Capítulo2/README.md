@@ -13,9 +13,9 @@ Al finalizar la práctica, serás capaz de:
 
 ## Instrucciones 
 
-**Descripción:** Ahora que ya se tiene un modelo de datos y análisis de datos, resulta que hay datos en la web que pueden servir para incluirse en el modelo de datos, hay que hacer procesos de depuración y limpieza de datos, junto con actividades de combinaciones de tablas, esto ayudará para dar un mejor detalle de los datos.
+**Descripción:** Ahora que ya tienes un modelo de datos y análisis de datos, resulta que hay datos en la web que pueden servir para incluirse en el modelo de datos, hay que hacer procesos de depuración y limpieza de datos, junto con actividades de combinaciones de tablas, esto ayudará para dar un mejor detalle de los datos.
 
-> ***Nota:** En esta práctica usa el archivo resultante del laboratorio anterior: **Práctica 1: Cargar datos en Power BI Desktop.***
+> _**Nota:** En esta práctica usa el archivo resultante del laboratorio anterior: **Práctica 1: Cargar datos en Power BI Desktop.**_
 
 1. Abre el archivo resultante del laboratorio: **Práctica 1: Cargar datos en Power BI Desktop**.
 
