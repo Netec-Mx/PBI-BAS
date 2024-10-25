@@ -79,4 +79,4 @@ Ahora podrás analizar los datos por medio de condicionales con el fin de distin
 
 Al interactuar con el **Lienzo del informe**, se puede ordenar los objetos visuales insertados.
 
-![img7](/images/Capitulo3/img7.png)
+![img7](../images/Capitulo3/img7.png)
