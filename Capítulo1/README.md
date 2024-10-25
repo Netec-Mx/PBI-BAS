@@ -22,18 +22,18 @@ Al finalizar la práctica, serás capaz de:
 
 2. Selecciona la pestaña **Inicio** de la cinta de opciones y haz clic en **Obtener datos > Libro de Excel.**
    
-![imagen](./images/Capitulo1/img1.png)
+![imagen](../images/Capitulo1/img1.png)
 
 3. Realiza la carga de datos en Power BI desktop del archivo **_“Los mejores y peores estados para la jubilación 2022”_**.
 
 5. En la ventana **Navegador** encontrarás las opciones que se disponen para cargar datos. Se muestra las tablas y las hojas de cálculo que se encuentran en el archivo cargado. Selecciona la opción **Datos** y luego haz clic en **Cargar**.
 
-![Navegador](./images/Capitulo1/img2.png)
+![Navegador](../images/Capitulo1/img2.png)
 
     > ***Nota**: Es recomendable usar tablas, ya que Power BI trabajará mejor con un conjunto de datos bien organizado, lo que facilita el proceso de limpieza, modelado y visualización.*
 
 6. En la pestaña **Vista de Tabla** podrá visualizar los datos cargados. Examinar en cada columna el tipo de dato, valores, categoría y formato.
-![Vista de Tabla](./images/Capitulo1/img3.png)
+![Vista de Tabla](../images/Capitulo1/img3.png)
 
 ### Tarea 2. Creación de gráficas en Power BI.
 
@@ -49,13 +49,13 @@ Se puede realizar un análisis rápido de los datos con el fin de ver **el prome
 
     > ***Nota**: La gráfica muestra el promedio de puntaje según las regiones de los Estados Unidos.*
 
-    ![Columnas apiladas](./images/Capitulo1/img4.png)
+    ![Columnas apiladas](../images/Capitulo1/img4.png)
 
 5. Inserta la segunda gráfica de visualización. Haz clic en **Mapa Coroplético** y selecciona los campos en el panel datos: **Estado** y **Puntaje general.**
 
     >***Nota**: La gráfica muestra el puntaje según cada estado de los Estados Unidos.*
 
-    ![Mapa Coroplético](./images/Capitulo1/img5.png)
+    ![Mapa Coroplético](../images/Capitulo1/img5.png)
 
 6. Guarda el archivo, da clic en **Archivo**, selecciona **Guardar o Guardar Como**, por último, elige **ubicación**.
     
@@ -63,7 +63,7 @@ Se puede realizar un análisis rápido de los datos con el fin de ver **el prome
 
 Los objetos visuales puedes organizarlos en el lienzo del informe.
 
-![Resultado esperado](./images/Capitulo1/img6.png)
+![Resultado esperado](../images/Capitulo1/img6.png)
 
 >***Tip**: Explora los diferentes origenes de datos comunes para obtener datos y los diferentes tipos de objetos visuales para analizar los datos cargados.*
 
