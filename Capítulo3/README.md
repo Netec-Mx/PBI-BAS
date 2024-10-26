@@ -1,4 +1,4 @@
-# Práctica 3. Modelamiento de datos.
+# Práctica 3. Modelamiento de datos
 
 ## Objetivo de la práctica:
 
