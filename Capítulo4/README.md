@@ -1,4 +1,4 @@
-# Práctica 4. Visualizaciones de datos.
+# Práctica 4. Visualizaciones de datos
 
 ## Objetivo de la práctica:
 
