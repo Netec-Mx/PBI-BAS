@@ -1,4 +1,4 @@
-# Práctica 6. Explorar Power BI Service.
+# Práctica 6. Explorar Power BI Service
 
 ## Objetivo de la práctica:
 
